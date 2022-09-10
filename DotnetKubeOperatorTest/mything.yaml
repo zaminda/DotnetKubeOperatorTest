@@ -1,0 +1,30 @@
+apiVersion: "panditha.com/v1"
+kind: MyThing
+metadata:
+  name: my-new-thing-1
+spec:
+  myProperty: "This is my property value 1"
+---
+apiVersion: "panditha.com/v1"
+kind: MyThing
+metadata:
+  name: my-new-thing-2
+spec:
+  myProperty: "this is another value"
+---
+---
+apiVersion: "panditha.com/v1"
+kind: MyThing
+metadata:
+  name: my-new-thing-3
+spec:
+  myProperty: "this is working!! uodate 1"
+  
+---
+apiVersion: "panditha.com/v1"
+kind: MyThing
+metadata:
+  name: my-new-thing-4
+spec:
+  myProperty: "testing another"
+  
