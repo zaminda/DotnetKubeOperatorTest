@@ -3,14 +3,14 @@ kind: MyThing
 metadata:
   name: my-new-thing-1
 spec:
-  myProperty: "This is my property value 1"
+  myProperty: "I'm hungry"
 ---
 apiVersion: "panditha.com/v1"
 kind: MyThing
 metadata:
   name: my-new-thing-2
 spec:
-  myProperty: "this is another value"
+  myProperty: "this is another value - updated 123"
 ---
 ---
 apiVersion: "panditha.com/v1"
