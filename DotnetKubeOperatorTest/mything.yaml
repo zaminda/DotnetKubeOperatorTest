@@ -26,5 +26,5 @@ kind: MyThing
 metadata:
   name: my-new-thing-4
 spec:
-  myProperty: "testing another"
+  myProperty: "last thing 444"
   
